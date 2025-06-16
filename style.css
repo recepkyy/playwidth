@@ -89,7 +89,6 @@ body{
 
 background-color: white;
 }
-<style>
 @media only screen and (max-width: 600px) {
   body {
     padding: 10px;
@@ -101,4 +100,3 @@ background-color: white;
   }
   /* Menü, buton gibi elemanları da buraya yaz */
 }
-<style/>
