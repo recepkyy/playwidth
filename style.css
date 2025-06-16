@@ -89,3 +89,16 @@ body{
 
 background-color: white;
 }
+<style>
+@media only screen and (max-width: 600px) {
+  body {
+    padding: 10px;
+    font-size: 16px;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  /* Menü, buton gibi elemanları da buraya yaz */
+}
+<style/>
