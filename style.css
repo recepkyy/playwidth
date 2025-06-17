@@ -111,3 +111,11 @@ tr td {
     text-align: center;
   }
 }
+.content {
+  position: relative;
+  z-index: 1;
+  background-color: rgba(255, 255, 255, 0.8); /* Yazılar arka plandan ayrılır */
+  padding: 15px;
+  border-radius: 8px;
+}
+
