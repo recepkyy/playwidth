@@ -51,7 +51,12 @@ img {
   display: block;
   margin: 20px auto;
   border-radius: 10px;
+  max-width: 100%;
+  height: auto;
+  position: relative;
+  z-index: -1;
 }
+
 .btn {
   display: inline-block;
   padding: 10px 20px;
